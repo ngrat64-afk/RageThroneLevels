@@ -1,7 +1,7 @@
 {
   "levels": [
     {
-      "name": "level1",
+      "name": "level_1",
       "file": "levels/level_1.json"
     }
   ]
