@@ -2,7 +2,7 @@
   "levels": [
     {
       "name": "level_1",
-      "file": "levels/level_1.json"
+      "file": "level_1.json"
     }
   ]
 }
